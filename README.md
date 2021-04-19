@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there :wave:
 
 <!--
 **Minoro/Minoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :office: I'm a software developer working at PARANACIDADE.
+- :city_sunrise: I'm currently developing the [Portal dos Municípios](https://portaldosmunicipios.pr.gov.br/): a plataform to help the urban development of cities in Paraná.
+- :computer: I'm also developing the [GurIA](https://sistemas.paranacidade.org.br/guria/): the company's Artificial Intelligence. Check it out, it's simple and open source.
+- :floppy_disk: I'm also on [Medium](https://medium.com/@minoro), maybe I post something one day :sweat_smile:.
+- :seedling: Pursuing a master's degree in applied computing at the Federal University of Technology – Parana (UTFPR)
