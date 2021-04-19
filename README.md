@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am a software developer, interested in Artificial Intelligence applied to real-world problems, causing a lot of confusion in a production environment :wink:
+
 - :office: I'm a software developer working at PARANACIDADE.
 - :city_sunrise: I'm currently developing the [Portal dos Municípios](https://portaldosmunicipios.pr.gov.br/): a plataform to help the urban development of cities in Paraná.
 - :computer: I'm also developing the [GurIA](https://sistemas.paranacidade.org.br/guria/): the company's Artificial Intelligence. Check it out, it's simple and open source.
