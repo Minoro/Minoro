@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software developer, causing a lot of confusion in a production environment :wink:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,python,tensorflow,postgresql,linux)](https://skillicons.dev)
 
+I am a software developer getting into trouble on the production environment. :wink:
+
+- :thumbsup: Master's degree in applied computing at the Federal University of Technology – Parana (UTFPR).
+- :seedling: Pursuing a PhD degree at the Federal University of Technology – Paraná (UTFPR).
 - :telescope: I'm interested in Artificial Intelligence applied to real-world problems.
 - :office: I'm a software developer working at PARANACIDADE.
 - :city_sunrise: I'm currently developing the [Portal dos Municípios](https://portaldosmunicipios.pr.gov.br/): a plataform to help the urban development of cities in Paraná.
 - :computer: I'm developing the [GurIA](https://sistemas.paranacidade.org.br/guria/): the company's Artificial Intelligence. Check it out, it's simple and open source.
 - :floppy_disk: I'm also on [Medium](https://medium.com/@minoro), maybe I post something one day :sweat_smile:.
-- :seedling: Pursuing a master's degree in applied computing at the Federal University of Technology – Parana (UTFPR).
+
