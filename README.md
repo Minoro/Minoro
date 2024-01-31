@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 
 I am a software developer getting into trouble on the production environment. :wink:
 
-- :thumbsup: Master's degree in applied computing at the Federal University of Technology – Parana (UTFPR).
 - :seedling: Pursuing a PhD degree at the Federal University of Technology – Paraná (UTFPR).
+- :thumbsup: Master's degree in applied computing at the Federal University of Technology – Parana (UTFPR).
 - :telescope: I'm interested in Artificial Intelligence applied to real-world problems.
+- :trophy: [First place in the CrowdSec Kaggle competition](https://twitter.com/Crowd_Security/status/1747212136604975525).
 - :office: I'm a software developer working at PARANACIDADE.
 - :city_sunrise: I'm currently developing the [Portal dos Municípios](https://portaldosmunicipios.pr.gov.br/): a plataform to help the urban development of cities in Paraná.
 - :computer: I'm developing the [GurIA](https://sistemas.paranacidade.org.br/guria/): the company's Artificial Intelligence. Check it out, it's simple and open source.
