@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,python,tensorflow,postgresql,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,java,python,tensorflow,pytorch,postgresql,linux)](https://skillicons.dev)
 
 I am a software developer getting into trouble on the production environment. :wink:
 
